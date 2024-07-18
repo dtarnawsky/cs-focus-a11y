@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cs-focus-a11y</string>
+    <string name="title_activity_main">cs-focus-a11y</string>
+    <string name="package_name">cs.focus.a11y</string>
+    <string name="custom_url_scheme">cs.focus.a11y</string>
+</resources>
